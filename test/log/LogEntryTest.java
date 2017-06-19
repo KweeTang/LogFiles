@@ -24,7 +24,7 @@ public class LogEntryTest {
        
        LA.printAll();
        
-       System.out.println("Test completed");
+       System.out.println("Test completed again");
     }
 
 }
