@@ -23,6 +23,8 @@ public class LogEntryTest {
        LA.readFile("short-test_log");
        
        LA.printAll();
+       
+       System.out.println("Test completed");
     }
 
 }
